@@ -1,0 +1,7 @@
+C:\Users\frost\Documents\Visual Studio 2013\Projects1\ClientTest\bin\Debug\ClientTest.dll
+C:\Users\frost\Documents\Visual Studio 2013\Projects1\ClientTest\bin\Debug\ClientTest.pdb
+C:\Users\frost\Documents\Visual Studio 2013\Projects1\ClientTest\bin\Debug\Client.exe
+C:\Users\frost\Documents\Visual Studio 2013\Projects1\ClientTest\bin\Debug\Client.pdb
+C:\Users\frost\Documents\Visual Studio 2013\Projects1\ClientTest\obj\Debug\ClientTest.csprojResolveAssemblyReference.cache
+C:\Users\frost\Documents\Visual Studio 2013\Projects1\ClientTest\obj\Debug\ClientTest.dll
+C:\Users\frost\Documents\Visual Studio 2013\Projects1\ClientTest\obj\Debug\ClientTest.pdb
