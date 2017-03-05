@@ -1,0 +1,8 @@
+c:\users\frost\documents\visual studio 2013\Projects1\BioServerAssignment\bin\Debug\BioServerAssignment.exe.config
+c:\users\frost\documents\visual studio 2013\Projects1\BioServerAssignment\bin\Debug\BioServerAssignment.exe
+c:\users\frost\documents\visual studio 2013\Projects1\BioServerAssignment\bin\Debug\BioServerAssignment.pdb
+c:\users\frost\documents\visual studio 2013\Projects1\BioServerAssignment\obj\Debug\BioServerAssignment.exe
+c:\users\frost\documents\visual studio 2013\Projects1\BioServerAssignment\obj\Debug\BioServerAssignment.pdb
+c:\users\frost\documents\visual studio 2013\Projects1\BioServerAssignment\obj\Debug\BioServerAssignment.ProjectInstaller.resources
+c:\users\frost\documents\visual studio 2013\Projects1\BioServerAssignment\obj\Debug\BioServerAssignment.csproj.GenerateResource.Cache
+C:\Users\frost\documents\visual studio 2013\Projects1\BioServerAssignment\obj\Debug\BioServerAssignment.csprojResolveAssemblyReference.cache

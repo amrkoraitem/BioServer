@@ -1,0 +1,8 @@
+c:\users\frost\documents\visual studio 2013\Projects1\Client\bin\Debug\Client.exe.config
+c:\users\frost\documents\visual studio 2013\Projects1\Client\obj\Debug\Client.frmMain.resources
+c:\users\frost\documents\visual studio 2013\Projects1\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\frost\documents\visual studio 2013\Projects1\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\frost\documents\visual studio 2013\Projects1\Client\bin\Debug\Client.exe
+c:\users\frost\documents\visual studio 2013\Projects1\Client\bin\Debug\Client.pdb
+c:\users\frost\documents\visual studio 2013\Projects1\Client\obj\Debug\Client.exe
+c:\users\frost\documents\visual studio 2013\Projects1\Client\obj\Debug\Client.pdb
